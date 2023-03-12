@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szaware
-- 👀 I’m interested in embedded c 
-- 🌱 I’m currently learning embedded systems
+- 👀 I’m interested in Technologies 
+
 
 <!---
 szaware/szaware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
